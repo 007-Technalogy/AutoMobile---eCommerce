@@ -428,9 +428,5 @@
  
 <img style=" border-radius:35px 35px 35px 35px;" src="https://serving.photos.photobox.com/11403270819e9a711b5f661df65fa730893c3dd8495f9dde08e0dfe1b5a05d46d7f2cc17.jpg" alt="alternatetext" width="1233" height="800">
 
-<img style=" border-radius:40px 40px 40px 40px;" src=" https://serving.photos.photobox.com/851088337290ff872c2e6ce952315026b29dee4cd23c8a755c5357fe5d216d0da785a3e5.jpg"  alt="alternatetext" width="1233" height="800">
-
-<img style=" border-radius:40px 40px 40px 40px;" src=" https://serving.photos.photobox.com/8193329414e603cac408f93986ec6baa78fdf6268a684bb9b328a35a60ba424575b7ddf7.jpg"  alt="alternatetext" width="800" height="600">
-
 </body>
 </html>
