@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://docs.google.com/document/d/1KlXsQmlu_i1QbpSzf0C0Nyxal66Cvo_YQpNs1lJ2BrA/edit?usp=sharing">
-<img style=" border-radius:35px 35px 35px 35px;" src="https://serving.photos.photobox.com/44730794de1a94ab09c1ff169c7e4b90befa8e48e5034ab86239a543aa8a7a0cef38197d.jpg" alt="alternatetext" width="750" height="500">
+<img style=" border-radius:35px 35px 35px 35px;" src="https://serving.photos.photobox.com/44730794de1a94ab09c1ff169c7e4b90befa8e48e5034ab86239a543aa8a7a0cef38197d.jpg" alt="alternatetext">
 </a>
  <hr>
  
@@ -419,9 +419,9 @@
 </p>
 
  
-<img style=" border-radius:35px 35px 35px 35px;" src="https://serving.photos.photobox.com/57046657bf3f3e423f16e3ec215b354234723658ff868cbd45d7851c6dd7ee8368734dcf.jpg" alt="alternatetext" width="750" height="500">
+<img style=" border-radius:35px 35px 35px 35px;" src="https://serving.photos.photobox.com/57046657bf3f3e423f16e3ec215b354234723658ff868cbd45d7851c6dd7ee8368734dcf.jpg" alt="alternatetext">
  
-<img style=" border-radius:35px 35px 35px 35px;" src="https://serving.photos.photobox.com/428199410cf3b7aa7bd34c662b39727a59efa316c2303a1d6ce397e3fe80dcb287e3335b.jpg" alt="alternatetext" width="750" height="500">
+<img style=" border-radius:35px 35px 35px 35px;" src="https://serving.photos.photobox.com/428199410cf3b7aa7bd34c662b39727a59efa316c2303a1d6ce397e3fe80dcb287e3335b.jpg" alt="alternatetext">
  
 
 
