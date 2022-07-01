@@ -18,9 +18,9 @@
   </a>
 </div>
  <hr>
- <h3 align="left" dir="auto"><a id="user-content--download-it-on-Source-Code-now-------AutoMobile-on-android------download-it-on-ios-now-------AutoMobile-on-ios----" class="anchor" aria-hidden="true" href="#-download-it-on-android-now-------AutoMobile-on-android------download-it-on-ios-now-------AutoMobile-on-ios----"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="Taskly"></path></svg></a>
+ <h3 align="left" dir="auto"><a id="user-content--download-it-on-Source-Code-now-------AutoMobile-on-android------download-it-on-ios-now-------AutoMobile-on-ios----" class="anchor" aria-hidden="true" href="#-download-it-on-android-now-------AutoMobile-on-android------download-it-on-ios-now-------AutoMobile-on-ios----"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="AutoMobile"></path></svg></a>
  Download it on Android now: <a href="https://drive.google.com/file/d/1Jj9g5ytjwiqdZGdtFkLcMkd7YGfbq14N/view?usp=sharing" rel="nofollow">
-      Taskly Pro on Android
+      AutoMobile - eCommerce on Android
     </a>
  <br>
  Download Source Code now: <a href="https://codecanyon.net/item/automobile-ecommerce/38377264" rel="nofollow">
@@ -39,7 +39,7 @@
 </ul>
    
 <a href= "https://drive.google.com/file/d/1Jj9g5ytjwiqdZGdtFkLcMkd7YGfbq14N/view?usp=sharing">
-<img style=" border-radius:35px 35px 35px 35px;" src="https://serving.photos.photobox.com/73536135dee3be530aac3b5592a19bb1582e7b67204cb885ffc3c41f0fd25ed18c62e9b4.jpg" alt="alternatetext" width="750" height="500">
+<img style=" border-radius:35px 35px 35px 35px;" src="https://serving.photos.photobox.com/73536135dee3be530aac3b5592a19bb1582e7b67204cb885ffc3c41f0fd25ed18c62e9b4.jpg" alt="alternatetext">
 </a>
 
 <a href="https://docs.google.com/document/d/1KlXsQmlu_i1QbpSzf0C0Nyxal66Cvo_YQpNs1lJ2BrA/edit?usp=sharing">
